@@ -20,14 +20,6 @@ SDK 兼容 Python 2.6+ 和 Python3 3.X，不依赖第三方库。
 
 请参考神策官网 [Python SDK 集成文档](https://manual.sensorsdata.cn/sa/latest/tech_sdk_server_python-1573931.html)。
 
-## 贡献
-
-* 1.  在您的 GitHub 账户下 fork sa-sdk-python 开源项目；
-* 2.  根据您的需求在本地 clone 一份 sa-sdk-python 源码；
-* 3.  您修改或者新增功能后，push 到您 fork 的远程分支；
-* 4.  创建 pull request，向 sa-sdk-python 官方开发分支提交合入请求；
-* 5.  神策 SDK 研发团队会及时 review 代码，测试通过后合入。
-
 
 ## 新书推荐
 
@@ -35,19 +27,4 @@ SDK 兼容 Python 2.6+ 和 Python3 3.X，不依赖第三方库。
 | ------ | ------ | ------ |
 
 ## License
-
-Copyright 2015－2024 Sensors Data Inc.
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-
-**禁止一切基于神策数据 Python 开源 SDK 的所有商业活动！**
+[License 协议](https://github.com/sensorsdata/sa-sdk-python/blob/master/LICENSE)
